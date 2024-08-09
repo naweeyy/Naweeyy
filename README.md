@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @KolaxxDev
+- 👋 Hi, I'm @Naweeyy
 - 👀 I am a French JavaScript Developer
 - 🌱 I'm currently learning HTML
 
